@@ -1,0 +1,45 @@
+body{
+    background-color: rgb(13, 1, 24);
+    color:whitesmoke;
+}
+img.myphoto{
+    float: right;
+    padding: 10px;
+    margin-right: 250px;
+    border-radius: 50%; 
+    border: 15px solid black;
+}
+h5{
+    background-color: rgb(59, 233, 195);
+    width: 60px;
+    padding: 10px;
+    border-radius: 10%;
+}
+h1{
+    padding-top: 0px;
+    padding-bottom: 0px;
+    font-size: 60px ;
+}
+#mem1{
+    margin-top: 200px;
+    margin-left: 100px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+a.phone, a.mail{
+    color:whitesmoke;
+    text-decoration: none;
+}
+div#ov{
+    font-size: 13px;
+    line-height: 30px;
+}
+h2{
+    font-size: 35px;
+}
+img.teammem{
+    border: 10px solid brown;
+    border-radius: 50%;
+    padding: 10px;
+    margin-left: 10px;
+
+}
